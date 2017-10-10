@@ -1,13 +1,22 @@
 {
-  "thumbnail": "https://wnow-modules.s3.amazonaws.com/icon_stroke_news_articlelist.svg",
+  "thumbnail": "https://wnow-modules.s3.amazonaws.com/icon_stroke_media_videoplayer.svg",
   "tag": "QA",
   "affiliates": [
-    "wnow"
+    "WNOW"
   ],
   "propTypes": {
+    "zip": "PropTypes.number",
+    "dayAmount": "PropTypes.number"
   },
   "defaultProps": {
+    "zip": 10001,
+    "dayAmount": 10
   },
-  "propChoices": {
-  }
+  "propChoices": {},
+  "FRN_resourceEndpoints": [
+    {
+      "url": "",
+      "type": "json"
+    }
+  ]
 }
