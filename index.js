@@ -1,4 +1,4 @@
-import React from 'react';
+//import React from 'react';
 
 // class RandomTestaSPIRE extends Component {
   
@@ -11,10 +11,10 @@ import React from 'react';
 //     );
 //   }
 // }
-const RandomTestaSPIRE = ()=> {
+const CustomModule2 = ()=> {
   console.log("Just for test");
   return (<div> Just for test</div>)
           }
 
 
-export default RandomTestaSPIRE;
+export default CustomModule2;
