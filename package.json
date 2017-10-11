@@ -5,8 +5,9 @@
     "WNOW"
   ],
   "propTypes": {
-    "zip": "PropTypes.number",
-    "dayAmount": "PropTypes.number"
+       "title": "PropTypes.string",
+    "layout": "PropTypes.string"
+
   },
   "defaultProps": {
     "title": "muzna test",
