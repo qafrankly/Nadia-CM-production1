@@ -11,7 +11,7 @@
 //     );
 //   }
 // }
-const CustomModule2 = ()=> {
+const CustomModule2 = ({p1,p2})=> {
   console.log("Just for test");
   return (<div> Just for test</div>)
           }
