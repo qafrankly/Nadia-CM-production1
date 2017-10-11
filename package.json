@@ -9,6 +9,7 @@
     "dayAmount": "PropTypes.number"
   },
   "defaultProps": {
+    "title": "muzna test",
     "zip": 10001,
     "dayAmount": 10
   },
