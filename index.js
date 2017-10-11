@@ -11,7 +11,10 @@ import React from 'react';
 //     );
 //   }
 // }
-const RandomTestaSPIRE = ()=> (<div> Just for test</div>)
+const RandomTestaSPIRE = ()=> {
+  console.log("Just for test");
+  return (<div> Just for test</div>)
+          }
 
 
 export default RandomTestaSPIRE;
