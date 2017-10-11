@@ -1,15 +1,17 @@
-import React, { Component, PropTypes } from 'react';
+import React from 'react';
 
-class RandomTestaSPIRE extends Component {
+// class RandomTestaSPIRE extends Component {
   
-  render(){
+//   render(){
 
-    return (
-      <div>
-        <h2>test test test</h2>
-      </div>
-    );
-  }
-}
+//     return (
+//       <div>
+//         <h2>test test test</h2>
+//       </div>
+//     );
+//   }
+// }
+const RandomTestaSPIRE = ()=> (<div> Just for test</div>)
 
-export default RandomTest;
+
+export default RandomTestaSPIRE;
