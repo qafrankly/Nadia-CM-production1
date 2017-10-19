@@ -1,16 +1,16 @@
-//import React from 'react';
+import React from 'react';
 
-// class RandomTestaSPIRE extends Component {
+class RandomTestaSPIRE extends Component {
   
-//   render(){
+   render(){
 
-//     return (
-//       <div>
-//         <h2>production</h2>
-//       </div>
-//     );
-//   }
-// }
+    return (
+      <div>
+        <h2>production</h2>
+       </div>
+     );
+   }
+ }
 const CustomModule2 = ({p1,p2})=> {
   console.log("Just for test");
   return (<div> Just for test</div>)
